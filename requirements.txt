@@ -1,7 +1,7 @@
 # General dependencies
 ffmpeg-python>=0.2.0
 numpy==1.23.5
-requests==2.31.0
+requests==2.32.2
 tqdm
 wget
 
@@ -27,7 +27,7 @@ einops
 # Visualization
 matplotlib==3.7.2
 tensorboard
-gradio==4.17.0
+gradio==4.36.0
 
 # Miscellaneous
 ffmpy==0.3.1
